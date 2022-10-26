@@ -48,3 +48,6 @@ btnRoll.addEventListener('click', function () {
         player1El.classList.toggle('player--active');
     }
 });
+
+// add next activity
+const switchplayer = '';
